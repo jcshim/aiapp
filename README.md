@@ -82,4 +82,5 @@
   - 시그너스(HW)
   - 웨보노믹스(SW)
   - 안동대학교(기술자문)
+  
 [1] http://www.hellot.net/new_hellot/magazine/magazine_read.html?code=202&sub=003&idx=39823
